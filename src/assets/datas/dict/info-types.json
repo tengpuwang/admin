@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "code": "Attorn",
+    "name": "转让"
+  },
+  {
+    "id": 2,
+    "code": "Lease",
+    "name": "出租"
+  },
+  {
+    "id": 3,
+    "code": "Sell",
+    "name": "出售"
+  },
+  {
+    "id": 4,
+    "code": "Invite",
+    "name": "招商"
+  },
+  {
+    "id": 5,
+    "code": "SeekLease",
+    "name": "求租"
+  },
+  {
+    "id": 6,
+    "code": "SeekSell",
+    "name": "求售"
+  },
+  {
+    "id": 7,
+    "code": "Other",
+    "name": "其他"
+  }
+]

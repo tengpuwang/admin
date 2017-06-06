@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "code": "adsense1",
+    "intro": "首页-最新爆料-大图",
+    "size": 3
+  },
+  {
+    "id": 2,
+    "code": "adsense2",
+    "intro": "首页-最新爆料-小图",
+    "size": 6
+  },
+  {
+    "id": 3,
+    "code": "adsense3",
+    "intro": "首页-腾铺优选-大图",
+    "size": 3
+  },
+  {
+    "id": 4,
+    "code": "adsense4",
+    "intro": "首页-腾铺优选-小图",
+    "size": 6
+  },
+  {
+    "id": 5,
+    "code": "adsense5",
+    "intro": "首页-腾铺优选-无图",
+    "size": 9
+  },
+  {
+    "id": 6,
+    "code": "adsense6",
+    "intro": "首页-一周快转",
+    "size": 12
+  },
+  {
+    "id": 7,
+    "code": "adsense7",
+    "intro": "搜索页-推荐栏",
+    "size": 3
+  },
+  {
+    "id": 8,
+    "code": "adsense8",
+    "intro": "详情页-大图",
+    "size": 3
+  },
+  {
+    "id": 9,
+    "code": "adsense9",
+    "intro": "详情页-小图",
+    "size": 6
+  },
+  {
+    "id": 10,
+    "code": "adsense10",
+    "intro": "详情页-无图",
+    "size": 9
+  }
+]
